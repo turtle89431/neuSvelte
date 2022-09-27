@@ -1,0 +1,11 @@
+{
+    "watch": [
+        "src"
+    ],
+    "ext": ".ts,.js,.svelte,.md,.css,.*.json",
+    "delay": "500",
+    "ignore": [
+        "public"
+    ],
+    "exec": "npm run build  && neu run"
+}
