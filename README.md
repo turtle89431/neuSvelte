@@ -2,7 +2,7 @@
 
 ```bash
 npm i -g @neutralinojs/neu
-npx degit turtle89431/neuSvelte app-name
+npx degit turtle89431/neuSvelte#main app-name
 cd app-name
 
 ```
